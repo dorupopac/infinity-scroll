@@ -38,7 +38,7 @@ h1 {
 
 /* Image Container */
 .image-container {
-  margin: 10px 30%;
+  margin: 10px 25%;
 }
 
 .image-container img {
@@ -46,7 +46,7 @@ h1 {
   margin-top: 5px;
 }
 
-@media(max-width: 600px) {
+@media (max-width: 600px) {
   h1 {
     font-size: 19px;
   }
